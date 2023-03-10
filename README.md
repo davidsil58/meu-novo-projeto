@@ -13,5 +13,8 @@ Este projeto é um aplicativo desktop feito em
 <img src ="https://user-images.githubusercontent.com/127160888/224409587-0a43a925-7cfc-4920-a3b7-9a4dfb1778cb.jpg" width= "500px"/>
 </div>
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=JAVA&message=1.8&color=blue&style=for-the-badge"/>  
+</p>
 
 
